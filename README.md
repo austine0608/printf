@@ -1,5 +1,7 @@
 README.md
 
+/* I have seen the code and they are ok */
+
 0x11. C - printf team project
 
 Group Project:                                                                      
